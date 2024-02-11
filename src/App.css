@@ -4,5 +4,5 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: sepia(1);
+  filter: sepia(6);
 }
