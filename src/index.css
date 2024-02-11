@@ -1,6 +1,15 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Josefin+Sans:wght@600&family=Roboto&display=swap');
 
+
+
+.titulo_eapacial{
+    font-family: 'Dancing Script', cursive;
+    font-size: 10rem;
+    color: #081c01;
+    text-align: center;
+}
 
 .name_espacial {
     font-family: 'Josefin Sans', sans-serif;
